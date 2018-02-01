@@ -8,7 +8,7 @@
      "source_ami": "ami-1e299d7e", 
      "instance_type": "t2.micro", 
      "ssh_username": "ec2-user", 
-     "ami_name": "Base_Image_1.0.0" 
+     "ami_name": "Base_Image_1.2.0" 
       }] 
  } 
 
